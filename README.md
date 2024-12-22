@@ -10,9 +10,7 @@
         background-size: cover;
         background-size: 1400px 600px;
         font-size:30px
-        
-    }
-    
+        }
     </style>
 </head>
 <body></body>
